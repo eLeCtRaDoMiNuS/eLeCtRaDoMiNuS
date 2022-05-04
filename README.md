@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @eLeCtRaDoMiNuS
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 😎 I know Python and C#
+- 🌱 I’m currently learning C++
 
 
 <!---
