@@ -2,9 +2,9 @@
 - 👀 I’m interested in programming
 - 😎 I know Python,C# and Lua
 - 🌱 I’m currently learning C++
+- 😁Discord : llame#1211
 
 
-<!---
-eLeCtRaDoMiNuS/eLeCtRaDoMiNuS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+--[[
+Sup,I’m llame nice to meet you im interested in programming
+]]
