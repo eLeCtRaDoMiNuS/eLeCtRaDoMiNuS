@@ -6,5 +6,5 @@
 
 
 --[[
-Sup,I’m llame nice to meet you im interested in programming
+Sup,nice to meet you im interested in programming
 ]]
