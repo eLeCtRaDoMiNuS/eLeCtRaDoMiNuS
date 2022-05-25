@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming
 - 😎 I know Python,C# and Lua
 - 🌱 I’m currently learning C++
-- 😁Discord : hecker#4947
 
 
 --[[
